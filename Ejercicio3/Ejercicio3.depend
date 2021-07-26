@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1627303659 source:c:\users\agustin\desktop\nuevaclase\ejercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1627303848 source:c:\users\agustin\desktop\nuevaclase\ejercicio3\harcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harcodeo.h"
+	"notebook.h"
+
+1627303964 c:\users\agustin\desktop\nuevaclase\ejercicio3\harcodeo.h
+	"notebook.h"
+
+1627303849 c:\users\agustin\desktop\nuevaclase\ejercicio3\notebook.h
+
